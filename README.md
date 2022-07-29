@@ -1,7 +1,7 @@
 # Olá ! ☕
 ![Software Engineer](https://www.umov.me/wp-content/uploads/2018/08/banner-topo-BLOG-1200-x-400-2.jpg)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+Im
 
 💻Skills: Python / Java / HTML
 
@@ -11,6 +11,28 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 - 📫 How to reach me: pintojad03@gmail.com 
 - 😄 Pronouns: he/her 
 
+
+## &#x1f4c8;Some stats:
+
+
+<a href="https://github.com/joaopinto15/joaopinto15">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopinto15&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/joaopinto15/joaopinto15">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=joaopinto15&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="joaopinto15's Stats" />
+</a>
+
+<a href="https://github.com/joaopinto15/-Simple-Projects-Python">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=joaopinto15&repo=-Simple-Projects-Python&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+
+<a href="https://github.com/joaopinto15/-Simple-Projects-Python">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=joaopinto15&repo=-Simple-Projects-Python&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>    
+
+
+
 ## 🔍Where to find me:
 
 [<img src='https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Instagram.svg' alt='instagram' height='40' target=”_blank”>](https://www.instagram.com/pinto_15/) 
@@ -19,15 +41,4 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 [<img src='https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Github.svg' alt='github' height='40'>](https://github.com/joaopinto15) 
 [<img src='https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Twitter.svg' alt='twitter' height='40'>](https://twitter.com/joao_15_pinto) 
 [<img src='https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Discord.svg' alt='discord' height='40'>](https://discordapp.com/users/335101330509135873)
-
-</br>
-
-## 💹Some status:
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaopinto15&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=joaopinto15&theme=dark&show_icons=true&count_private=true)  
-
-
 
