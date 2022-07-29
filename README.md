@@ -1,9 +1,8 @@
 # Olá ! ☕
 ![Software Engineer](https://www.umov.me/wp-content/uploads/2018/08/banner-topo-BLOG-1200-x-400-2.jpg)
 
-Im
 
-💻Skills: Python / Java / HTML
+### 💻Skills: Python / Java / HTML
 
 - 🔭 I’m currently doing simple projects 
 - 🌱 I’m currently Studying Computer Science
