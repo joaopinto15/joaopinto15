@@ -18,8 +18,13 @@ Skills: Python / Java / HTML
 </br>
 </br>
   
+ [<img src='[https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg](https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Instagram.svg)' alt='instagram' height='40'>](https://github.com/boas)  
+ [<img src='[https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg](https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg)' alt='gmail' height='40'>](https://github.com/boas)  
  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/boas)  
- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/boas)  
+ [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='stackoverflow' height='40'>](https://github.com/boas)  
+ [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='twitter' height='40'>](https://github.com/boas)  
+
+
   
   
 </br>
