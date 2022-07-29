@@ -1,10 +1,9 @@
 # Olá ! ☕
-## Software Engineer
 ![Software Engineer](https://www.umov.me/wp-content/uploads/2018/08/banner-topo-BLOG-1200-x-400-2.jpg)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-Skills: Python / Java / HTML
+💻Skills: Python / Java / HTML
 
 - 🔭 I’m currently doing simple projects 
 - 🌱 I’m currently Studying Computer Science
@@ -12,12 +11,8 @@ Skills: Python / Java / HTML
 - 📫 How to reach me: pintojad03@gmail.com 
 - 😄 Pronouns: he/her 
 
-## Connect with me:
+## 🔍Where to find me:
 
-
-</br>
-</br>
-  
 [<img src='https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Instagram.svg' alt='instagram' height='40' target=”_blank”>](https://www.instagram.com/pinto_15/) 
 [<img src='https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/19557674) 
 [<img src='https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Spotify.svg' alt='spotify' height='40'>](https://open.spotify.com/user/11129793549?si=RF6JJD6zTnugCCvfwx0l1w&dl_branch=1&nd=1) 
@@ -25,14 +20,9 @@ Skills: Python / Java / HTML
 [<img src='https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Twitter.svg' alt='twitter' height='40'>](https://twitter.com/joao_15_pinto) 
 [<img src='https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Discord.svg' alt='discord' height='40'>](https://discordapp.com/users/335101330509135873)
 
-
- 
-
-
-  
-  
 </br>
-</br>
+
+## 💹Some status:
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaopinto15&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
