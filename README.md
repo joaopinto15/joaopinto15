@@ -1,13 +1,14 @@
-### Hi there 👋, my name is João Pinto
-#### Software Engineer
+# Hi there 👋, my name is João Pinto
+## Software Engineer
 ![Software Engineer](https://www.umov.me/wp-content/uploads/2018/08/banner-topo-BLOG-1200-x-400-2.jpg)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
 Skills: Python / Java / HTML
 
-- 🔭 I’m currently working on doing simple projects 
-- 🌱 I’m currently learning Studying Computer Science 
+- 🔭 I’m currently doing simple projects 
+- 🌱 I’m currently Studying Computer Science
+- 👨‍🎓 Studying at: [Universidade Portucalense](https://www.upt.pt/)
 - 📫 How to reach me: pintojad03@gmail.com 
 - 😄 Pronouns: he/her 
 
