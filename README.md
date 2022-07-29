@@ -22,7 +22,7 @@ Skills: Python / Java / HTML
 [<img src='https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/19557674) 
 [<img src='https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Instagram.svg' alt='github' height='40'>](https://github.com/joaopinto15) 
 [<img src='https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Twitter.svg' alt='twitter' height='40'>](https://twitter.com/joao_15_pinto) 
-[<img src='https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/pinto_15/) 
+
 
 
  
