@@ -18,7 +18,8 @@ Skills: Python / Java / HTML
 </br>
 </br>
   
- [<img src='([https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Instagram.svg](https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Foursquare.svg))' alt='instagram'>](https://github.com/boas)  
+ [<img src='/gauravghongde/social-icons/master/SVG/Color/Foursquare.svg' alt='github' height='40'>](https://github.com/ffxf)  
+
  
 
 
