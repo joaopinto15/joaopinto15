@@ -15,7 +15,7 @@ Skills: Python / Java / HTML
 ##Connect with me:
 </br>
 </br>
-[<img align="left" alt="mariabarkouzou | " width="30px" src=""/>][youtube]
+[<img align="left" alt="pinto_15 | Instagram" width="30px" src=""/>][instagram]
 [<img align="left" alt="mariabarkouzou | LinkedIn" width="30px" src="" />][linkedin]
 <a href="mailto:pintojad03@gmail.com"><img align="left" alt="pintojad03 | GMail" width="30px" src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg" />
 [<img align="left" alt="mariabarkouzou | StackOverFlow" width="30px" src="" />][stackoverflow]
