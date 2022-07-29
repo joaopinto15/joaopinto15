@@ -13,13 +13,18 @@ Skills: Python / Java / HTML
 - 😄 Pronouns: he/her 
 
 ##Connect with me:
+
+
 </br>
 </br>
-[<img align="left" alt="pinto_15 | Instagram" width="30px" src=""/>][instagram]
-[<img align="left" alt="mariabarkouzou | LinkedIn" width="30px" src="" />][linkedin]
-<a href="mailto:pintojad03@gmail.com"><img align="left" alt="pintojad03 | GMail" width="30px" src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg" />
-[<img align="left" alt="mariabarkouzou | StackOverFlow" width="30px" src="" />][stackoverflow]
-[<img align="left" alt="mariabarkouzou | Codepen" width="30px" src="" />][codepen]
+  
+ [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/boas)  
+ [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/boas)  
+  
+  
+</br>
+</br>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaopinto15&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
