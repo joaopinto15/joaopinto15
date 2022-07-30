@@ -8,7 +8,7 @@
 - 🌱 I’m currently Studying Computer Science
 - 👨‍🎓 Studying at: [Universidade Portucalense](https://www.upt.pt/)
 - 📫 How to reach me: pintojad03@gmail.com 
-- 😄 Pronouns: he/her 
+- 😄 Pronouns: he/him 
 
 
 ## &#x1f4c8;Some stats:
