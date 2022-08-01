@@ -12,9 +12,10 @@
 - 😄 Pronouns: he/him 
 <br>
 <br>
-<br>
 
 ### My Website -> [☕](https://joaopinto15.github.io/)
+<br>
+<br>
 <br>
 ## &#x1f4c8;Some stats:
 
