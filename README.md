@@ -13,8 +13,6 @@
 <br>
 <br>
 <br>
-<br>
-<br>
 
 ### My Website -> [☕](https://joaopinto15.github.io/)
 <br>
