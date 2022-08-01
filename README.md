@@ -17,7 +17,8 @@
 <br>
 <br>
 <br>
-## &#x1f4c8;Some stats:
+
+## 📈Some stats:
 
 
 <a href="https://github.com/joaopinto15/joaopinto15">
