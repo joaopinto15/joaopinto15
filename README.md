@@ -1,5 +1,4 @@
 # Olá ! ☕
-![standard](https://user-images.githubusercontent.com/86107009/182246946-2389167a-47b0-4a61-a07b-3fa724f054ab.gif)
 
 
 
