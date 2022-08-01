@@ -4,6 +4,7 @@
 
 <br>
 <br>
+
 ### 💻Skills: Python / Java / HTML
 
 - 🔭 I’m currently doing simple projects 
