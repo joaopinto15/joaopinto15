@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently doing simple projects 
 - 🌱 I’m currently Studying Computer Science
-- 👨‍🎓 Studying at: [Universidade Portucalense](https://www.upt.pt/)
+- 👨‍🎓 Studying at: [Instituto Superior de Engenharia do Porto](https://www.isep.ipp.pt/)
 - 📫 How to reach me: pintojad03@gmail.com 
 - 😄 Pronouns: he/him 
 <br>
