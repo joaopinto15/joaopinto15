@@ -1,11 +1,8 @@
-# Olá ! ☕
+# Olá ! 
 
 <img class="boas" align='right' src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47nplzbut2c0p233ujgdror5ni6r0jj2j6eck9umx1&rid=giphy.gif&ct=g" alt="Gif" >
 
 <br>
-<br>
-
-### 💻Skills: Python / Java / C / HTML / CSS
 
 - 🔭 I’m currently doing simple projects 
 - 🌱 I’m currently Studying Computer Science
@@ -13,12 +10,21 @@
 - 📫 How to reach me: pintojad03@gmail.com 
 - 😄 Pronouns: he/him 
 <br>
-<br>
 
 ### My Website -> [☕](https://joaopinto15.github.io/)
+
+# Current IDE : [<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg' alt='vscode' height='40' target=”_blank”>](https://code.visualstudio.com/)
+
+
 <br>
-<br>
-<br>
+
+## 💻Skills 
+[<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' alt='Python' height='40' target=”_blank”>](https://www.w3schools.com/python/) 
+[<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg' alt='Java' height='40' target=”_blank”>](https://www.w3schools.com/java/) 
+[<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg' alt='C' height='40' target=”_blank”>](https://www.w3schools.com/c/) 
+[<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg' alt='html' height='40' target=”_blank”>](https://www.w3schools.com/html/) 
+[<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg' alt='css' height='40' target=”_blank”>](https://www.w3schools.com/css/) 
+
 
 ## 📈Some stats:
 
