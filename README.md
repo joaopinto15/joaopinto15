@@ -13,7 +13,7 @@
 
 ### My Website -> [☕](https://joaopinto15.github.io/)
 
-# Current IDE : [<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg' alt='vscode' height='40' target=”_blank”>](https://code.visualstudio.com/)
+### Current IDE : [<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg' alt='vscode' height='20' target=”_blank”>](https://code.visualstudio.com/)
 
 
 <br>
