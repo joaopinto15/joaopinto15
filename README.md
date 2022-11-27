@@ -5,7 +5,7 @@
 <br>
 <br>
 
-### 💻Skills: Python / Java / HTML
+### 💻Skills: Python / Java / C / HTML / CSS
 
 - 🔭 I’m currently doing simple projects 
 - 🌱 I’m currently Studying Computer Science
