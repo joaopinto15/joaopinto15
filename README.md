@@ -5,7 +5,8 @@
 <br>
  
 - 🌱 I’m currently Studying Computer Science
-- 👨‍🎓 Studying at: [Instituto Superior de Engenharia do Porto](https://www.isep.ipp.pt/)
+- 👨‍🎓 Studying at: 
+- [Instituto Superior de Engenharia do Porto](https://www.isep.ipp.pt/)
 - 📫 How to reach me: pintojad03@gmail.com 
 
 <br>
