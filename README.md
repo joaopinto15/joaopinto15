@@ -4,6 +4,7 @@
 
 <br>
 <br>
+
 - 🌱 I’m currently Studying Computer Science
 - 👨‍🎓 Studying at: [ISEP](https://www.isep.ipp.pt/)
 - 📫 How to reach me: pintojad03@gmail.com 
