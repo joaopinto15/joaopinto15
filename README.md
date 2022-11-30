@@ -3,7 +3,7 @@
 <img class="boas" align='right' src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47nplzbut2c0p233ujgdror5ni6r0jj2j6eck9umx1&rid=giphy.gif&ct=g" alt="Gif" >
 
 <br>
- 
+<br>
 - 🌱 I’m currently Studying Computer Science
 - 👨‍🎓 Studying at: [ISEP](https://www.isep.ipp.pt/)
 - 📫 How to reach me: pintojad03@gmail.com 
