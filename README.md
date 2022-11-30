@@ -11,10 +11,12 @@
 
 <br>
 
-### My Website -> [☕](https://joaopinto15.github.io/)
+   ### My Website -> [☕](https://joaopinto15.github.io/)
 
-### Current IDE : [<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg' alt='vscode' height='20' target=”_blank”>](https://code.visualstudio.com/)
+   ### Current IDE : [<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg' alt='vscode' height='20' target=”_blank”>](https://code.visualstudio.com/)
 
+<br>
+<br>
 
 ## 💻Skills 
 [<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' alt='Python' height='40' target=”_blank”>](https://www.w3schools.com/python/) 
