@@ -26,7 +26,8 @@
 [<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg' alt='css' height='40' target=”_blank”>](https://www.w3schools.com/css/) 
 [<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg' alt='javascript' height='40' target="_blank">](https://www.w3schools.com/javascript/) 
 [<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg' alt='ubuntu' height='40' target="_blank">](https://ubuntu.com/) 
-
+  
+  
           
 ## 📈Some stats:
 
