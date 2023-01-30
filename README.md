@@ -38,7 +38,6 @@
   <img   align="center" src="https://github-readme-stats.vercel.app/api?username=joaopinto15&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="joaopinto15's Stats" />
 </a>
 
-
 ## 🔍Where to find me:
 
 [<img src='https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/pinto_15/) 
