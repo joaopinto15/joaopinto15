@@ -38,16 +38,6 @@
   <img   align="center" src="https://github-readme-stats.vercel.app/api?username=joaopinto15&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="joaopinto15's Stats" />
 </a>
 
-<a href="https://github.com/joaopinto15/-Simple-Projects-Python">
-  <img  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=joaopinto15&repo=-Simple-Projects-Python&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-
-<a href="https://github.com/joaopinto15/-Simple-Projects-Python">
-  <img  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=joaopinto15&repo=-Simple-Projects-Python&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>    
-
-
 
 ## 🔍Where to find me:
 
