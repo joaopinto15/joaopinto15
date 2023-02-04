@@ -26,15 +26,8 @@
 </div>
 
 
+### 🔍Where to find me
 
-
-
-
-<div align="center">
-<br><p align="centre"><b>🔍Where to find me</b></p>  
-<br>
-</div>
-<div align='center'>
    <a href="https://www.instagram.com/pinto_15/">
       <img src='https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Instagram.svg' alt='instagram' height='40'>
    </a>
@@ -56,5 +49,5 @@
    <a href="https://www.linkedin.com/in/jo%C3%A3o-pinto-92891b250/">
       <img src='https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg' alt='linkedin' height='40'>
    </a>
-</div>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=40E0D0&height=120&section=footer"/>
