@@ -25,8 +25,9 @@
   
 ### 🛠️Tools
   
-  [<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg' alt='vscode' height='40' target=”_blank”>](https://code.visualstudio.com/)
-  [<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg' alt='ubuntu' height='40' target="_blank">](https://ubuntu.com/) 
+  [<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg' alt='vscode' height='40'>](https://code.visualstudio.com/)
+  [<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg' alt='ubuntu' height='40'>](https://ubuntu.com/) 
+  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt='trello' height='40'>](https://trello.com/)
   <br>
  
 ### 💩 Some of my friends
