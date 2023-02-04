@@ -7,33 +7,34 @@
 <div align='center'>
   <br>
 
-  ### 🛠️Tools
-  [<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg' alt='vscode' height='40' target=”_blank”>](https://code.visualstudio.com/)
-  [<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg' alt='ubuntu' height='40' target="_blank">](https://ubuntu.com/) 
-  <br>
-  <br>
-
-  ### 💻Skills 
-  [<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' alt='Python' height='40' target=”_blank”>](https://www.w3schools.com/python/) 
-  [<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg' alt='Java' height='40' target=”_blank”>](https://www.w3schools.com/java/) 
-  [<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg' alt='C' height='40' target=”_blank”>](https://www.w3schools.com/c/) 
-  [<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg' alt='html' height='40' target=”_blank”>](https://www.w3schools.com/html/) 
-  [<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg' alt='css' height='40' target=”_blank”>](https://www.w3schools.com/css/) 
-  [<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg' alt='javascript' height='40' target="_blank">](https://www.w3schools.com/javascript/) 
-  
-
-
 
   <div align="center">  
     <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=joaopinto15&show_icons=true&count_private=true&hide_border=true&title_color=008B8B&icon_color=40E0D0&text_color=40E0D0&bg_color=0d1117" alt="Joao Pinto github stats" /> 
     <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopinto15&layout=compact&hide_border=true&title_color=008B8B&text_color=40E0D0&bg_color=0d1117"/>
   </div>
   
+### 💻Skills 
+  
+  [<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' alt='Python' height='40' target=”_blank”>](https://www.w3schools.com/python/) 
+  [<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg' alt='Java' height='40' target=”_blank”>](https://www.w3schools.com/java/) 
+  [<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg' alt='C' height='40' target=”_blank”>](https://www.w3schools.com/c/) 
+  [<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg' alt='html' height='40' target=”_blank”>](https://www.w3schools.com/html/) 
+  [<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg' alt='css' height='40' target=”_blank”>](https://www.w3schools.com/css/) 
+  [<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg' alt='javascript' height='40' target="_blank">](https://www.w3schools.com/javascript/) 
+  <br>
+  
+### 🛠️Tools
+  
+  [<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg' alt='vscode' height='40' target=”_blank”>](https://code.visualstudio.com/)
+  [<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg' alt='ubuntu' height='40' target="_blank">](https://ubuntu.com/) 
+  <br>
+ 
 ### 💩 Some of my friends
   
   [<img src="https://avatars.githubusercontent.com/u/107275079?v=4" height="40" alt="Rafael profile"/>](https://github.com/ReyFow)
   [<img src="https://avatars.githubusercontent.com/u/107275037?v=4" height="40" alt="vscosousa profile"/>](https://github.com/vscosousa)
-
+  <br>
+  
 ### 🔍Where to find me
 
   [<img src='https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/pinto_15/) 
