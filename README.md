@@ -15,12 +15,14 @@
   
 ### 💻Skills 
   
-  [<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' alt='Python' height='40' target=”_blank”>](https://www.w3schools.com/python/) 
-  [<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg' alt='Java' height='40' target=”_blank”>](https://www.w3schools.com/java/) 
-  [<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg' alt='C' height='40' target=”_blank”>](https://www.w3schools.com/c/) 
-  [<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg' alt='html' height='40' target=”_blank”>](https://www.w3schools.com/html/) 
-  [<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg' alt='css' height='40' target=”_blank”>](https://www.w3schools.com/css/) 
-  [<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg' alt='javascript' height='40' target="_blank">](https://www.w3schools.com/js/) 
+  [<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' alt='Python' height='40'>](https://docs.python.org/3/) 
+  [<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg' alt='Java' height='40'>](https://docs.oracle.com/en/java/) 
+  [<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg' alt='C' height='40'>](https://www.w3schools.com/c/) 
+  [<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg' alt='html' height='40'>](https://www.w3schools.com/html/) 
+  [<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg' alt='css' height='40'>](https://www.w3schools.com/css/) 
+  [<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg' alt='javascript' height='40'>](https://www.w3schools.com/js/)
+  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt='bootstrap' height='40'>](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
+          
   <br>
   
 ### 🛠️Tools
