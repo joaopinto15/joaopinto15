@@ -21,7 +21,8 @@
   [<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg' alt='html' height='40'>](https://www.w3schools.com/html/) 
   [<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg' alt='css' height='40'>](https://www.w3schools.com/css/) 
   [<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg' alt='javascript' height='40'>](https://www.w3schools.com/js/)
-  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt='bootstrap' height='40'>](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
+  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt='reactjs' height='40'>](https://reactjs.org/)
+  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt='nodejs' height='40'>](https://nodejs.org/en/)
           
   <br>
   
