@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=40E0D0&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=40E0D0&size=35&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B%2C+my+name+is+Jo%C3%A3o+Pinto;I%E2%80%99m+a+software+engineering+student;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=40E0D0&size=35&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B%2C+my+name+is+Jo%C3%A3o+Pinto;I%E2%80%99m+a+software+engineer+student;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=joaopinto15&bg_color=0d1117&color=40E0D0&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -29,8 +29,10 @@
 ### 🛠️Tools
   
   [<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg' alt='vscode' height='40'>](https://code.visualstudio.com/)
-  [<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg' alt='ubuntu' height='40'>](https://ubuntu.com/) 
+  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt='ubuntu' height='40'>](https://ubuntu.com/) 
   [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt='trello' height='40'>](https://trello.com/)
+  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" alt='jira' height='40'>](https://www.atlassian.com/software/jira)
+
   <br>
  
 ### 💩 Some of my friends
