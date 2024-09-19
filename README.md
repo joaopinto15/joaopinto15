@@ -21,8 +21,8 @@
 
 ### 🎖️ My Badges (Credly)
 <!--START_SECTION:badges-->
-[![Introduction to Cybersecurity](https://images.credly.com/size/79x79/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png)](http://www.credly.com/badges/55371c21-50a1-4bd6-a798-9239c2cb9832 "Introduction to Cybersecurity")
-[![Fortinet Certified Fundamentals Cybersecurity](https://images.credly.com/size/79x79/images/22a0ece5-ff05-4594-8320-25e55e9ae203/image.png)](http://www.credly.com/badges/910f944b-1b27-44e1-b41e-01cb85efc21a "Fortinet Certified Fundamentals Cybersecurity")
+[![Introduction to Cybersecurity](https://images.credly.com/size/90x90/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png)](http://www.credly.com/badges/55371c21-50a1-4bd6-a798-9239c2cb9832 "Introduction to Cybersecurity")
+[![Fortinet Certified Fundamentals Cybersecurity](https://images.credly.com/size/90x90/images/22a0ece5-ff05-4594-8320-25e55e9ae203/image.png)](http://www.credly.com/badges/910f944b-1b27-44e1-b41e-01cb85efc21a "Fortinet Certified Fundamentals Cybersecurity")
 <!--END_SECTION:badges-->
   
 ### 🔍Where to find me
