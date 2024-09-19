@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Badges - Readme
-        uses: joaopinto15/badge-readme@main
+        uses: pemtajo/badge-readme@main
         with:
           COMMIT_MESSAGE: "Updated badges" # optional
           CREDLY_SORT: POPULAR # optional, this is the two forms from credly sort, more popular or recent first, by default use RECENT
