@@ -18,6 +18,10 @@
 | [![Rafael's Profile](https://avatars.githubusercontent.com/u/107275079?v=4&s=40)](https://github.com/ReyFow) | [![vscosousa's Profile](https://avatars.githubusercontent.com/u/107275037?v=4&s=40)](https://github.com/vscosousa) |
 |:-----------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------:|
 | [**Rafael**](https://github.com/ReyFow)   | [**Vasco**](https://github.com/vscosousa)|
+
+### 🎖️ My Badges (Credly)
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
   
 ### 🔍Where to find me
 
