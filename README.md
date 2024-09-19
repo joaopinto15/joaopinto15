@@ -21,6 +21,7 @@
 
 ### 🎖️ My Badges (Credly)
 <!--START_SECTION:badges-->
+[![Fortinet Certified Fundamentals Cybersecurity](https://images.credly.com/size/79x79/images/22a0ece5-ff05-4594-8320-25e55e9ae203/image.png)](http://www.credly.com/badges/910f944b-1b27-44e1-b41e-01cb85efc21a "Fortinet Certified Fundamentals Cybersecurity")
 <!--END_SECTION:badges-->
   
 ### 🔍Where to find me
