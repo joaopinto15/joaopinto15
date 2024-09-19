@@ -2,9 +2,6 @@ name: Update badges
 
 on:
   workflow_dispatch:
-  schedule:
-    # Runs at 15 UTC
-    - cron: "0 15 * * *"
 jobs:
   update-readme:
     name: Update Readme with badges
@@ -15,4 +12,4 @@ jobs:
         with:
           COMMIT_MESSAGE: "Updated badges" # optional
           CREDLY_SORT: POPULAR # optional, this is the two forms from credly sort, more popular or recent first, by default use RECENT
-          BADGE_SIZE: 80 # optional, 110x110 default
+          BADGE_SIZE: 10 # optional, 110x110 default
