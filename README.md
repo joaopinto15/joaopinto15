@@ -9,8 +9,8 @@
 
 
   <div align="center">  
-    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=joaopinto15&show_icons=true&count_private=true&hide_border=true&title_color=008B8B&icon_color=40E0D0&text_color=40E0D0&bg_color=0d1117" alt="Joao Pinto github stats" /> 
-    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopinto15&layout=compact&hide_border=true&title_color=008B8B&text_color=40E0D0&bg_color=0d1117"/>
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=joaopinto15&show_icons=true&count_private=true&hide_border=true&title_color=008B8B&icon_color=40E0D0&text_color=40E0D0&bg_color=0d1117&include_all_commits=true" alt="Joao Pinto github stats" /> 
+    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopinto15&layout=compact&hide_border=true&title_color=008B8B&text_color=40E0D0&bg_color=0d1117&include_all_commits=true"/>
   </div>
  
 ### 👥 Some of My Friends
