@@ -7,12 +7,6 @@
 <div align='center'>
   <br>
 
-
-  <div align="center">  
-    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=joaopinto15&show_icons=true&count_private=true&hide_border=true&title_color=008B8B&icon_color=40E0D0&text_color=40E0D0&bg_color=0d1117&include_all_commits=true" alt="Joao Pinto github stats" /> 
-    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopinto15&layout=compact&hide_border=true&title_color=008B8B&text_color=40E0D0&bg_color=0d1117&include_all_commits=true"/>
-  </div>
- 
 ### 👥 Some of My Friends
 
 | [![Rafael's Profile](https://avatars.githubusercontent.com/u/107275079?v=4&s=40)](https://github.com/ReyFow) | [![vscosousa's Profile](https://avatars.githubusercontent.com/u/107275037?v=4&s=40)](https://github.com/vscosousa) |
@@ -29,7 +23,6 @@
   
 ### 🔍Where to find me
 
-  [<img src='https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/19557674) 
   [<img src='https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Spotify.svg' alt='spotify' height='40'>](https://open.spotify.com/user/11129793549?si=RF6JJD6zTnugCCvfwx0l1w&dl_branch=1&nd=1) 
   [<img src='https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Github.svg' alt='github' height='40'>](https://github.com/ReyFow) 
   [<img src='https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg' alt='LinkedIN' height='40'>](https://www.linkedin.com/in/jo%C3%A3o-pinto-92891b250/) 
