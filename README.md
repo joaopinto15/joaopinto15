@@ -23,8 +23,8 @@
   
 ### 🔍Where to find me
 
-  [<img src='https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Spotify.svg' alt='spotify' height='40'>](https://open.spotify.com/user/11129793549?si=RF6JJD6zTnugCCvfwx0l1w&dl_branch=1&nd=1) 
-  [<img src='https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Github.svg' alt='github' height='40'>](https://github.com/ReyFow) 
-  [<img src='https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg' alt='LinkedIN' height='40'>](https://www.linkedin.com/in/jo%C3%A3o-pinto-92891b250/) 
+  [<img src='https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Google.svg' alt='google' height='40'>](https://joaopinto15.github.io/) 
+  [<img src='https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg' alt='gmail' height='40'>](mailto:pintojad03@gmail.com) 
+  [<img src='https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/joaopinto15/) 
   </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=40E0D0&height=120&section=footer"/>
