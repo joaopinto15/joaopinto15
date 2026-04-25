@@ -7,13 +7,7 @@
 <div align='center'>
   <br>
 
-### 👥 Some of My Friends
 
-| [![Rafael's Profile](https://avatars.githubusercontent.com/u/107275079?v=4&s=40)](https://github.com/ReyFow) | [![vscosousa's Profile](https://avatars.githubusercontent.com/u/107275037?v=4&s=40)](https://github.com/vscosousa) |
-|:-----------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------:|
-| [**Rafael**](https://github.com/ReyFow)   | [**Vasco**](https://github.com/vscosousa)|
-
-  
 ### 🔍Where to find me
 
   [<img src='https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Google.svg' alt='google' height='40'>](https://joaopinto15.github.io/) 
